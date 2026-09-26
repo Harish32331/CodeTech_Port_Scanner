@@ -1,3 +1,5 @@
+Intern ID: CITS8957
+
 # CodeTech Port Scanner
 
 A Python-based TCP port scanner developed as part of the CodeTech Cybersecurity & Ethical Hacking Internship.
@@ -21,7 +23,7 @@ The project demonstrates basic concepts of:
 - Custom starting and ending ports
 - Configurable connection timeout
 - Hostname and IPv4 address support
-- Open-port identification
+- O	pen-port identification
 - Input validation
 - Clear terminal output
 - No external Python dependencies
